@@ -1,0 +1,31 @@
+
+#1.	Busca el mayor valor en un arreglo de tamaño n.
+
+#2.	Calcula el factorial de un entero n utilizando un algoritmo lineal (secuencial).
+
+
+#3.	Calcula la factorial de un entero n, utilizando una función recursiva.
+
+#4.	Calcula la serie de Fibonacci.
+
+# 7.	Halla el segundo elemento más grande de un conjunto que contiene n elementos.
+
+# Asuma que los datos no están ordenados.
+
+#8.	Halla el más pequeño y el más grande, de un conjunto de n elementos.
+
+#Ordenar un arreglo de numeros enteros (usa bubble sort nigga)
+
+#Eliminar el elemento en una posicion de un arreglo
+
+#Buscar un numero en un arreglo
+
+#Calcular cuantas veces se repite un numero X en un arreglo de enteros.
+
+
+#Sumar los digitos de un numero entero positivo.
+
+#Determinar si un numero es primo o no.
+
+#Determinar la cantidad de primos que existen en un arreglo de enteros.
+

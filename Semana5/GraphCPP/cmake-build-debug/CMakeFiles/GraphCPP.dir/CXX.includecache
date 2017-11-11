@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Franco/Desktop/Ciclo 6/Complejidad Algoritmica/Semana5/GraphCPP/main.cpp
+iostream
+-
+list
+-
+queue
+-
+

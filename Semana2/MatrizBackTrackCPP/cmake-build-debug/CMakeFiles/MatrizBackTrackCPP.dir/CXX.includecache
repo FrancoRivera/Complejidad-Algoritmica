@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Franco/Desktop/Ciclo 6/complejidad/Semana2/MatrizBackTrackCPP/main.cpp
+iostream
+-
+cstring
+-
+

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Franco/Desktop/Ciclo 6/complejidad/Semana2/BruteForceCPP/Operation.cpp
+Operation.h
+/Users/Franco/Desktop/Ciclo 6/complejidad/Semana2/BruteForceCPP/Operation.h
+
+/Users/Franco/Desktop/Ciclo 6/complejidad/Semana2/BruteForceCPP/Operation.h
+
+/Users/Franco/Desktop/Ciclo 6/complejidad/Semana2/BruteForceCPP/StringMatching.cpp
+StringMatching.h
+/Users/Franco/Desktop/Ciclo 6/complejidad/Semana2/BruteForceCPP/StringMatching.h
+
+/Users/Franco/Desktop/Ciclo 6/complejidad/Semana2/BruteForceCPP/StringMatching.h
+iostream
+-
+
+/Users/Franco/Desktop/Ciclo 6/complejidad/Semana2/BruteForceCPP/main.cpp
+iostream
+-
+Operation.h
+/Users/Franco/Desktop/Ciclo 6/complejidad/Semana2/BruteForceCPP/Operation.h
+StringMatching.h
+/Users/Franco/Desktop/Ciclo 6/complejidad/Semana2/BruteForceCPP/StringMatching.h
+

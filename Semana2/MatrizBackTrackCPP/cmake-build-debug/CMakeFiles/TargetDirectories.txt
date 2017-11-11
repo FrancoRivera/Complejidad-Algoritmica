@@ -1,0 +1,3 @@
+/Users/Franco/Desktop/Ciclo 6/complejidad/Semana2/MatrizBackTrackCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Franco/Desktop/Ciclo 6/complejidad/Semana2/MatrizBackTrackCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Franco/Desktop/Ciclo 6/complejidad/Semana2/MatrizBackTrackCPP/cmake-build-debug/CMakeFiles/MatrizBackTrackCPP.dir
