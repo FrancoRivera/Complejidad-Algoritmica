@@ -47,7 +47,7 @@ class KnapSack():
             print("")
 
 
-ks = KnapSack(7)
+ks = KnapSack(10)
 
 ks.add_item("Zapato", 4, 3)
 ks.add_item("Canica", 1, 1)
